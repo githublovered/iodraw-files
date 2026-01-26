@@ -7,6 +7,231 @@
         <mxCell id="P8tB3W4Zyh7B3HbsxC51-1" value="用户从H5端注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-2" value="H5用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-4" target="P8tB3W4Zyh7B3HbsxC51-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-4" value="个人" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="140" width="195" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-6" target="P8tB3W4Zyh7B3HbsxC51-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-6" value="企业（&lt;span style=&quot;background-color: transparent;&quot;&gt;无人机持有、生产、销售、运输、培训、维修、飞行表演、租赁、保险，及无人机反制设备生产、销售企业，还有其他涉无人机相关企业&lt;/span&gt;）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="245" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-8" target="P8tB3W4Zyh7B3HbsxC51-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-8" value="协会" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="350" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-10" target="P8tB3W4Zyh7B3HbsxC51-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-10" value="党政机关（&lt;span style=&quot;background-color: transparent;&quot;&gt;党政机关用户包含范围：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;宣传、应急、公安部门&lt;/span&gt;&lt;div&gt;农业、林业、水利、电力部门&lt;/div&gt;&lt;div&gt;国土、环保、文旅、城管部门&lt;/div&gt;&lt;div&gt;广电等其他相关党政机关单位&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;）&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="450" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-12" target="P8tB3W4Zyh7B3HbsxC51-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-12" value="基本信息必填，身份证是否与本人一致" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="141" width="100" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-13" value="营业执照是否合规，隶属哪个公安局" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="250" width="95" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-14" value="机构代码是否合规" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="567.5" y="475" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-15" value="&lt;div&gt;协会基本信息、法人信息、民政部门证明,&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;隶属哪个公安局&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="555" y="350" width="105" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-19" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="330" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-21" target="P8tB3W4Zyh7B3HbsxC51-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-21" value="派出所注册审核" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="930" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="390" as="sourcePoint" />
+            <mxPoint x="750" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-24" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="510" as="sourcePoint" />
+            <mxPoint x="770" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-28" target="P8tB3W4Zyh7B3HbsxC51-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-28" target="P8tB3W4Zyh7B3HbsxC51-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-28" target="P8tB3W4Zyh7B3HbsxC51-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-28" value="材料是否合格" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="950" y="375" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-29" value="进行航空器备案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-30" value="是" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="450" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-31" value="打回" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="385" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-32" value="否" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="400" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-33" value="入库人员信息表" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="750" y="495" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="555" as="sourcePoint" />
+            <mxPoint x="890" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-35" value="个人用户无人机备案（）" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-36" value="企业用户无人机备案（生产、销售、运输、表演、培训、维修、租赁）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-37" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-29" target="P8tB3W4Zyh7B3HbsxC51-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="560" as="sourcePoint" />
+            <mxPoint x="1040" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="560" as="sourcePoint" />
+            <mxPoint x="1090" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-39" value="入湘前备案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="555" as="sourcePoint" />
+            <mxPoint x="1210" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="530" as="sourcePoint" />
+            <mxPoint x="1300" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-42" value="管制空域企业备案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-43" value="派出所备案审核" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="980" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-44" value="涉无人机包裹信息备案" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-45" value="培训、维修、飞行表演、租赁、保险，及无人机反制设备生产、销售企业备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-46" value="党政机关备案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.931;entryY=0.039;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.058;exitY=0.989;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-29" target="P8tB3W4Zyh7B3HbsxC51-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="570" as="sourcePoint" />
+            <mxPoint x="1110" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-48" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.336;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-29" target="P8tB3W4Zyh7B3HbsxC51-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1040" y="530" as="sourcePoint" />
+            <mxPoint x="1290" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-49" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="690" as="sourcePoint" />
+            <mxPoint x="710" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-50" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="690" as="sourcePoint" />
+            <mxPoint x="1130" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="690" as="sourcePoint" />
+            <mxPoint x="1100" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-52" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.336;entryY=-0.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1065" y="690" as="sourcePoint" />
+            <mxPoint x="1235" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-53" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1200" y="690" as="sourcePoint" />
+            <mxPoint x="1370" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="P8tB3W4Zyh7B3HbsxC51-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330" y="690" as="sourcePoint" />
+            <mxPoint x="1170" y="800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P8tB3W4Zyh7B3HbsxC51-55" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.314;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="P8tB3W4Zyh7B3HbsxC51-45">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="720" as="sourcePoint" />
+            <mxPoint x="1100" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
