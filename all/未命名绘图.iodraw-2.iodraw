@@ -43,6 +43,9 @@
         <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-15" value="用户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-50" y="308" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-16" value="业务SASS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="408" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
