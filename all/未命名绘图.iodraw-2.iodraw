@@ -59,7 +59,7 @@
           <mxGeometry x="-65" y="529.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-22" value="雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="630" width="120" height="40" as="geometry" />
+          <mxGeometry x="50" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-23" value="光电" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="120" height="40" as="geometry" />
@@ -71,7 +71,7 @@
           <mxGeometry x="500" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="30" y="514.5" width="720" height="80" as="geometry" />
+          <mxGeometry x="10" y="700" width="720" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
