@@ -61,7 +61,7 @@
         <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-22" value="雷达" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="630" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-23" value="频谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-23" value="光电" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="630" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-24" value="频谱" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
