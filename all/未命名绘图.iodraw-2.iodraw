@@ -28,8 +28,8 @@
         <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-8" value="智能中枢模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="300" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="390" width="120" height="60" as="geometry" />
+        <mxCell id="4Uz6Q7iNHC4rA7iCWR0m-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="291" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
