@@ -304,7 +304,7 @@
         <mxCell id="5nlANTU_krrDY56Ssai6-456" value="&lt;font face=&quot;仿宋_GB2312&quot;&gt;内网&lt;/font&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;同步&lt;/span&gt;&lt;span style=&quot;font-family: 仿宋_GB2312; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;数据库&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=11.1666666666668;fillColor=#CFD9F8;strokeColor=#4C63EA;gradientColor=#173EEA;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="370" y="390" width="190" height="87.25" as="geometry" />
         </mxCell>
-        <mxCell id="5nlANTU_krrDY56Ssai6-457" value="&lt;font&gt;部级安全防控平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=16;glass=0;shadow=0;" parent="1" vertex="1">
+        <mxCell id="5nlANTU_krrDY56Ssai6-457" value="&lt;font&gt;部级平台&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;fontSize=16;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="708" y="679.8800000000001" width="40" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5nlANTU_krrDY56Ssai6-458" value="&lt;span&gt;市级警航平台&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=center;verticalAlign=top;fontSize=16;glass=0;shadow=0;" parent="1" vertex="1">
